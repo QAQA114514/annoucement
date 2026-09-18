@@ -1,2 +1,3 @@
-2.5.0 update
-tileset update : THE WEST
+tileset update 1.2.0
+- Parade Pageantry
+- add some Westland tiles id
