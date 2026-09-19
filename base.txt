@@ -1,4 +1,7 @@
-tileset update 1.2.0
-- Parade Pageantry
+tileset update 1.2.2 (WITH 1.2.0)
+- Parade Pageantry theme
 - add some Westland tiles id
-- Heartbreak
+- Heartbreak theme
+- remake some tiles images
+   29,30,31,32,49,50,1112,1113
+- Radiant Shadow theme
