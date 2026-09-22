@@ -1,7 +1,8 @@
-tileset update 1.2.2 (WITH 1.2.0)
-- Parade Pageantry theme
-- add some Westland tiles id
-- Heartbreak theme
-- remake some tiles images
-   29,30,31,32,49,50,1112,1113
-- Radiant Shadow theme
+tileset update 1.2.3
+- The Wizard Of Oz
+- Industrial Age
+- The Fruit Paradise
+- Nirvana
+
+Tile Preset Filter update:
+- The Fruit Paradise
