@@ -1,8 +1,3 @@
-tileset update 1.2.3
-- The Wizard Of Oz
-- Industrial Age
-- The Fruit Paradise
-- Nirvana
-
-Tile Preset Filter update:
-- The Fruit Paradise
+tileset update 1.2.4
+- fix some tiles img
+- Canyon Encounters
