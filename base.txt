@@ -1,3 +1,2 @@
-tileset update 1.2.5
-- NEWBORN
-- some patches
+tileset update 1.2.6
+- Shining Waves
