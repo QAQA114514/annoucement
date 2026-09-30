@@ -1,2 +1,5 @@
-tileset update 1.2.6
-- Shining Waves
+tileset update 1.2.7
+- RoboToy
+- Polar Exploration
+- Lighthouse Alley
+- a trigger tile : Stop Slow Tile Trigger Form Trailblaze
