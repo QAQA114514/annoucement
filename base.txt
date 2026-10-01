@@ -1,2 +1,3 @@
-tileset update 1.2.9
-- Reset The img of the ? tile
+tileset update 1.3.0
+- Amusement Park
+- Lengendary Racing
