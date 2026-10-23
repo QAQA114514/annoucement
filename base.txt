@@ -1,12 +1,3 @@
-Tileset UPDATE 1.3.7:
-- Wasteland Wildsands
-- Red Empire
-- Subset Sword Tomb
-- Buoyancy Field
-- Phantom
-- Mirror World
-- Future Stronghold
-- Alien Remnants
-- Cloud fool s day
-- Grotesque Playohuse
-- Our Story Onwards
+Tileset UPDATE 1.3.8
+- Redraw id 1 to 288 img
+- redraw all enemies on the fragile
